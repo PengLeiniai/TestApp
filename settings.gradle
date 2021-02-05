@@ -1,0 +1,4 @@
+include ':clientsocket'
+include ':testsocket'
+include ':app'
+rootProject.name = "TestApp"
